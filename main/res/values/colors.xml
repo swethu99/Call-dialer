@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Light_blue">#80D7FF</color>
+    <color name="Dark_blue">#01579b</color>
+    <color name="Blue_clr">#014666</color>
+    <color name="white_clr">#ffffff</color>
+    <color name="violet">#880088</color>
+    <color name="pink">#ff00ff</color>
+    <color name="pink2">#ffaacc</color>
+
+    <color name="viloet2">#c0448f</color>
+
+
+</resources>
